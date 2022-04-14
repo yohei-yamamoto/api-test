@@ -5,8 +5,6 @@ import ReadJson from './components/readJson';
 function App() {
   return (
     <div className="App">
-      <input />
-      <button>検索</button>
       <ReadJson />
     </div>
   );
